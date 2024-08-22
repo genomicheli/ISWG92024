@@ -1,4 +1,4 @@
-#TP4: SCM
+# El fantabuloso repositorio del grupo [REDACTED]. Ingenieria y Calidad de Software.
 
 Consigna: 
 
