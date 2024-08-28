@@ -18,26 +18,27 @@ tema.
 Salida: 
 
 ● URL de acceso al repositorio implementado
-● Documento con la definición de los ítems de configuración y su regla de nombrado y la 
-definición del criterio para la creación de una línea base.
+
+● Documento con la definición de los ítems de configuración y su regla de nombrado y la definición del criterio para la creación de una línea base.
 Se evaluará lo siguiente:
-● El repositorio debe ser accesible de forma pública
-● Implementación de la estructura de carpetas propuesta
-● Los archivos se deben encontrar en la ubicación correspondiente a su definición como 
-ítem de Configuración.
+* El repositorio debe ser accesible de forma pública
+* Implementación de la estructura de carpetas propuesta
+* Los archivos se deben encontrar en la ubicación correspondiente a su definición como ítem de Configuración.
 
 Instrucciones: 
 
 ● Realizar el diseño del repositorio y reglas de nombrado de ítems de configuración
+
 ● Crear un repositorio de acceso público
+
 ● Crear cuentas de usuario para cada uno de los integrantes del grupo
-● Implementar la estructura del repositorio propuesta para resguardar el trabajo 
-generado durante el cursado de la materia Ingeniería de Software.
+
+● Implementar la estructura del repositorio propuesta para resguardar el trabajo generado durante el cursado de la materia Ingeniería de Software.
+
 ● Realizar Commit (colocar) de cada ítem de configuración disponible al momento.
-● Definir al menos un momento que considere adecuado para marcar una línea base y 
-luego marcar la línea base definida en el repositorio.
+
+● Definir al menos un momento que considere adecuado para marcar una línea base y luego marcar la línea base definida en el repositorio.
 
 Observaciones: 
 
-El repositorio implementado debe ser de acceso público utilizando Git o Subversion como motor 
-de control de versiones
+El repositorio implementado debe ser de acceso público utilizando Git o Subversion como motor de control de versiones
