@@ -19,7 +19,7 @@ A continuación se presentará información relevante sobre la estructura y orde
 
 ## Estructura del repositorio.
 
-![Estructura del repositorio](https://imgur.com/a/DmcAFYN)
+![Estructura del repositorio](https://i.imgur.com/O4fI1l7.png)
 
 ## Reglas de nombrado.
 
