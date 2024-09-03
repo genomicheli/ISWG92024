@@ -1,44 +1,55 @@
-# El fantabuloso repositorio del grupo [REDACTED]. Ingenieria y Calidad de Software.
+# Repositorio del grupo *N°9*: Cursado de la asignatura de Ingeniería y Calidad de Software.
 
-Consigna: 
+> La teoría y la práctica a veces chocan. Y cuando eso pasa, la teoría pierde. Siempre.
+- Linus Torvalds, creador de Git.
 
-Comprender los conceptos de administración de configuración de software (SCM) expuestos en 
-la clase teórica para aplicarlos en un ejercicio propuesto por la cátedra.
-Objetivo: Que el estudiante sea capaz de realizar actividades básicas de la gestión de configuración 
-mediante el uso de una herramienta tales como la definición de una estructura de repositorio, 
-ingreso y extracción de ítems de configuración del repositorio y definición de líneas base. 
-Propósito: Aplicar los conceptos de gestión de configuración estudiados en una herramienta de software 
-específica
+Bienvenidos a nuestro repositorio. Éste sera el que utilizaremos a lo largo del cursado para subir contenido relacionado a la materia:
+Trabajos prácticos, material bibliografico, resúmenes de la materia, guias de trabajos prácticos, entre otros múltiples items de configuración.
 
-Entradas: 
+A continuación se presentará información relevante sobre la estructura y ordenamiento del repositorio en cuestión.
 
-Conceptos teóricos sobre los temas desarrollados en clase. Bibliografía referenciada sobre el 
-tema.
+## Integrantes del grupo
 
-Salida: 
+- Micheli, Genoves. 78493.
+- Funes, Francisco Javier, 73037.
+- Carracedo, Lautaro, 73143.
+- Molla, Joaquin, 90019.
+- Bertero, Rodrigo, 74901.
+- Andermatten, Alexis, 70287.
 
-● URL de acceso al repositorio implementado
+## Estructura del repositorio.
 
-● Documento con la definición de los ítems de configuración y su regla de nombrado y la definición del criterio para la creación de una línea base.
-Se evaluará lo siguiente:
-* El repositorio debe ser accesible de forma pública
-* Implementación de la estructura de carpetas propuesta
-* Los archivos se deben encontrar en la ubicación correspondiente a su definición como ítem de Configuración.
+![Estructura del repositorio](https://imgur.com/a/DmcAFYN)
 
-Instrucciones: 
+## Reglas de nombrado.
 
-● Realizar el diseño del repositorio y reglas de nombrado de ítems de configuración
+| Ítem de configuración                        | Regla de nombrado                             | Ubicación Física                                        |
+|----------------------------------------------|----------------------------------------------|--------------------------------------------------------|
+| Bibliografía                                 | `<NombreBiblio>-<NombreAutor>.<FileExt>`     | `/ISWG92024/Teórico/Bibliografía`                       |
+| Presentaciones de clases                     | `<NúmeroUnidad>-<Tema>.<FileExt>`            | `/ISWG92024/Teórico/Presentaciones-Clase`               |
+| Guías de trabajos prácticos regulares y de investigación | `Guía<GuíaTPs>.<FileExt>`                  | `/ISWG92024/Práctico/Guía-TPs`                         |
+| Trabajos prácticos grupales                  | `TP-<NumeroTP>-<NombreTP>.<FileExt>`         | `/ISWG92024/Práctico/TP-<NumeroTp>`                     |
+| Plantillas de trabajos prácticos             | `Plantilla-<NombrePlant>.<FileExt>`          | `/ISWG92024/Práctico/Plantillas-TPs`                    |
+| Modalidad Académica                          | `ModalidadAcademica.pdf`                     | `/ISWG92024`                                            |
+| Resúmenes                                    | `Resumen-<NombreRes>-<AutorRes>.<FileExt>`   | `/ISWG92024/Resúmenes/Parcial-<NumeroParcial>`          |
 
-● Crear un repositorio de acceso público
 
-● Crear cuentas de usuario para cada uno de los integrantes del grupo
+## Glosario.
 
-● Implementar la estructura del repositorio propuesta para resguardar el trabajo generado durante el cursado de la materia Ingeniería de Software.
+| Sigla            | Significado                                            |
+|------------------|--------------------------------------------------------|
+| `<NombreBiblio>` | Nombre de la Bibliografía.                              |
+| `<NombreAutor>`  | Nombre del autor del libro.                             |
+| `<FileExt>`      | Extensión del archivo.                                  |
+| `<NumeroUnidad>` | Número de la unidad presentada.                         |
+| `<Tema>`         | Nombre que indica el tema abarcado en la presentación.  |
+| `<GuiaTPs>`      | Nombre del guía.                                        |
+| `<NumeroTP>`     | Número del trabajo práctico.                            |
+| `<NombreTP>`     | Nombre del trabajo práctico.                            |
+| `<NombrePlant>`  | Nombre de la plantilla de trabajos prácticos.           |
+| `<AutorRes>`     | Nombre del autor del resumen.                           |
+| `<NombreRes>`    | Nombre del resumen.                                     |
+| `<NumeroParcial>`| Número del parcial al que corresponde el resumen.       |
 
-● Realizar Commit (colocar) de cada ítem de configuración disponible al momento.
+  
 
-● Definir al menos un momento que considere adecuado para marcar una línea base y luego marcar la línea base definida en el repositorio.
-
-Observaciones: 
-
-El repositorio implementado debe ser de acceso público utilizando Git o Subversion como motor de control de versiones
