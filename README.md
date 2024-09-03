@@ -25,13 +25,13 @@ A continuación se presentará información relevante sobre la estructura y orde
 
 | Ítem de configuración                        | Regla de nombrado                             | Ubicación Física                                        |
 |----------------------------------------------|----------------------------------------------|--------------------------------------------------------|
-| Bibliografía                                 | `<NombreBiblio>-<NombreAutor>.<FileExt>`     | `/ISWG92024/Teórico/Bibliografía`                       |
-| Presentaciones de clases                     | `<NúmeroUnidad>-<Tema>.<FileExt>`            | `/ISWG92024/Teórico/Presentaciones-Clase`               |
-| Guías de trabajos prácticos regulares y de investigación | `Guía<GuíaTPs>.<FileExt>`                  | `/ISWG92024/Práctico/Guía-TPs`                         |
-| Trabajos prácticos grupales                  | `TP-<NumeroTP>-<NombreTP>.<FileExt>`         | `/ISWG92024/Práctico/TP-<NumeroTp>`                     |
-| Plantillas de trabajos prácticos             | `Plantilla-<NombrePlant>.<FileExt>`          | `/ISWG92024/Práctico/Plantillas-TPs`                    |
+| Bibliografía                                 | `<NombreBiblio>~<NombreAutor>.<FileExt>`     | `/ISWG92024/Teórico/Bibliografía`                       |
+| Presentaciones de clases                     | `<NúmeroUnidad>~<Tema>.<FileExt>`            | `/ISWG92024/Teórico/Presentaciones~Clase`               |
+| Guías de trabajos prácticos regulares y de investigación | `Guía<GuíaTPs>.<FileExt>`                  | `/ISWG92024/Práctico/Guía~TPs`                         |
+| Trabajos prácticos grupales                  | `TP~<NumeroTP>~<NombreTP>.<FileExt>`         | `/ISWG92024/Práctico/TP~<NumeroTp>`                     |
+| Plantillas de trabajos prácticos             | `Plantilla~<NombrePlant>.<FileExt>`          | `/ISWG92024/Práctico/Plantillas~TPs`                    |
 | Modalidad Académica                          | `ModalidadAcademica.pdf`                     | `/ISWG92024`                                            |
-| Resúmenes                                    | `Resumen-<NombreRes>-<AutorRes>.<FileExt>`   | `/ISWG92024/Resúmenes/Parcial-<NumeroParcial>`          |
+| Resúmenes                                    | `Resumen~<NombreRes>~<AutorRes>.<FileExt>`   | `/ISWG92024/Resúmenes/Parcial~<NumeroParcial>`          |
 
 
 ## Glosario.
