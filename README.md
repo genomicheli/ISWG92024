@@ -16,6 +16,7 @@ A continuación se presentará información relevante sobre la estructura y orde
 - Molla, Joaquin, 90019.
 - Bertero, Rodrigo, 74901.
 - Andermatten, Alexis, 70287.
+- Benitez, Jonathan, 68599.
 
 ## Estructura del repositorio.
 
