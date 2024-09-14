@@ -20,7 +20,7 @@ A continuación se presentará información relevante sobre la estructura y orde
 
 ## Estructura del repositorio.
 
-![Estructura del repositorio](https://i.imgur.com/O4fI1l7.png)
+![Estructura del repositorio](https://i.imgur.com/9Wy79qy.jpeg)
 
 ## Reglas de nombrado.
 
@@ -30,7 +30,9 @@ A continuación se presentará información relevante sobre la estructura y orde
 | Presentaciones de clases                     | `<NúmeroUnidad>~<Tema>.<FileExt>`            | `/ISWG92024/Teórico/Presentaciones~Clase`               |
 | Guías de trabajos prácticos regulares y de investigación | `Guía<GuíaTPs>.<FileExt>`                  | `/ISWG92024/Práctico/Guía~TPs`                         |
 | Trabajos prácticos grupales                  | `TP~<NumeroTP>~<NombreTP>.<FileExt>`         | `/ISWG92024/Práctico/TP~<NumeroTp>`                     |
+| Trabajos prácticos de investigación                 | `TP~Inv~<NumeroTP>~<NombreTP>.<FileExt>`         | `/ISWG92024/Práctico/TPs~Investigación~<NumeroTp>`                     |
 | Plantillas de trabajos prácticos             | `Plantilla~<NombrePlant>.<FileExt>`          | `/ISWG92024/Práctico/Plantillas~TPs`                    |
+| Clases Grabadas                 | `Clase~<FechaClase>.<FileExt>`         | `/ISWG92024/Clases~Grabadas`                     |
 | Modalidad Académica                          | `ModalidadAcademica.pdf`                     | `/ISWG92024`                                            |
 | Resúmenes                                    | `Resumen~<NombreRes>~<AutorRes>.<FileExt>`   | `/ISWG92024/Resúmenes/Parcial~<NumeroParcial>`          |
 
@@ -45,6 +47,7 @@ A continuación se presentará información relevante sobre la estructura y orde
 | `<NumeroUnidad>` | Número de la unidad presentada.                         |
 | `<Tema>`         | Nombre que indica el tema abarcado en la presentación.  |
 | `<GuiaTPs>`      | Nombre del guía.                                        |
+| `<FechaClase>`      | Fecha de grabación de la clase.                                        |
 | `<NumeroTP>`     | Número del trabajo práctico.                            |
 | `<NombreTP>`     | Nombre del trabajo práctico.                            |
 | `<NombrePlant>`  | Nombre de la plantilla de trabajos prácticos.           |
